@@ -1,4 +1,4 @@
-module github.com/OPTIC7409/gogtrends
+module github.com/OPTIC7409/google-trends-golang
 
 go 1.23.0
 
